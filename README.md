@@ -47,7 +47,7 @@ Ensure your system meets the following requirements:
 6. Open your browser and navigate to:  
     [http://localhost:3000](http://localhost:3000)
    
-## Our Website
+## Our Community
 
 ![Homepage Screenshot 1](Ebookh1.png)  
 ![Homepage Screenshot 2](Ebookh3.png)  
