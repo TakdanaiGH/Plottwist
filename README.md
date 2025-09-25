@@ -46,3 +46,11 @@ Ensure your system meets the following requirements:
 
 6. Open your browser and navigate to:  
     [http://localhost:3000](http://localhost:3000)
+   
+## Our Website
+
+![Homepage Screenshot 1](Ebookh1.png)  
+![Homepage Screenshot 2](Ebookh3.png)  
+![Homepage Screenshot 3](Ebookh2.png)
+
+
